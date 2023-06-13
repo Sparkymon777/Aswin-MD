@@ -1,7 +1,7 @@
 const simpleGit = require('simple-git');
 const git = simpleGit();
 const {command} = require('../lib');
-const {MessageType} = require('@adiwajshing/baileys');
+const {MessageType} = require('@whiskeysockets/baileys');
 const Config = require('../config');
 const exec = require('child_process').exec;
 const { skbuffer } = require('raganork-bot');
