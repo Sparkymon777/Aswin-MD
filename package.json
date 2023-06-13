@@ -21,7 +21,7 @@
   "author": "ASWIN SPARKY",
   "license": "GPL-3.0",
   "dependencies": {
-   "@whiskeysockets/baileys": "^4.3.0",
+   "@whiskeysockets/baileys": "git+https://github.com/BrunoSobrino/Baileys.git",
    "@adiwajshing/keyed-db": "^0.2.4",
    "@neeraj-x0/textpro": "^1.0.3",
    "awesome-phonenumber": "^3.4.0",
